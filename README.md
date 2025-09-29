@@ -1,7 +1,7 @@
 # Youth Employment Prediction (Hackathon Project)  
 
 🏆 **Winner of the Predictive Insights Hackathon**  
-📊 Predicting youth employment outcomes with **time series + machine learning models**  
+📊 Predicting youth employment outcomes with **time series**  
 👥 Team: **MaBosso**
 
 ---
